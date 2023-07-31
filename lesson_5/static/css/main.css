@@ -1,0 +1,9 @@
+body{
+    background-color: blueviolet !important;
+}
+
+/* Header */
+.header__img {
+    height: 64px;
+    width: 64px;
+}
