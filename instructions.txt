@@ -1,0 +1,4 @@
+1. pip install Flask
+2. add app.py
+3. python3 app.py
+4. add to app.py urls
