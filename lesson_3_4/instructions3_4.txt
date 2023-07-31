@@ -1,0 +1,8 @@
+1. add to base link
+2. directory - static -> direct css -> main.css ->
+3. https://getbootstrap.com/ -> внизу Include via CDN скопировать линки - 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+вставляем в base.html - перед мета
+в конце после body -     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+4. прописать страницы в Base - регистрация, о нас, глав страница
+5. добавить иконку лого в imm - header__img -> main.css
