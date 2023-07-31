@@ -1,0 +1,7 @@
+1. create create.html
+2. app.py -> create post
+3. base ->       </header>
+            {% block content %}{% endblock %}
+4. create.html -> apps.py -> create -> прописать запросы на базу данных
+5. add new decorator posts -> posts.html
+6. add html code for posts and run
